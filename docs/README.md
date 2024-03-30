@@ -1,5 +1,5 @@
 # Modelo de Previsão de Vendas Mensais
-[![NPM]([https://git](https://github.com/ProfRenatoSimoes/dio-lab-open-source/edit/main/docs/README.md)
+[![NPM]([https://image.shields.io/npm/l/react)](https://github.com/ProfRenatoSimoes/dio-lab-open-source/edit/main/docs/README.md)
 
 # Pontos de Extremidade:
 # Endpoint 1: Dados Históricos de Vendas e Fatores Externos
