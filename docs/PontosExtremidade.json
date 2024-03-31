@@ -1,0 +1,19 @@
+{
+  "endpoints": [
+    {
+      "name": "Dados Históricos de Vendas e Fatores Externos",
+      "url": "https://example.com/endpoint1",
+      "description": "Este ponto de extremidade recebe dados históricos de vendas mensais e informações sobre fatores externos relevantes."
+    },
+    {
+      "name": "Dados Atuais dos Fatores Externos",
+      "url": "https://example.com/endpoint2",
+      "description": "Este ponto de extremidade recebe dados em tempo real dos fatores externos relevantes para o mês atual."
+    },
+    {
+      "name": "Modelo de Previsão de Vendas",
+      "url": "https://example.com/endpoint3",
+      "description": "Este ponto de extremidade executa o modelo de previsão, utilizando dados históricos e dados atuais dos fatores externos para prever as vendas do próximo mês."
+    }
+  ]
+}
